@@ -45,7 +45,7 @@
     "@type": "Collection",
     "name": "TFTProtoOverlayAPI",
     "creator": "MatthewPage",
-    "about": "TFT Prototype Overlay",
-    "url": "https://www.jasonclark.info"
+    "about": "TFT Prototype Overlay, user data provides basic information like favorite team comp and current rank, item data provides name role and attack range.",
+    "url": "https://my-json-server.typicode.com/mpage301/protoAPI"
   }
 }
