@@ -1,4 +1,3 @@
-
 {
   "items": [
     {
@@ -10,7 +9,7 @@
     },
     {
       "@context": "TFT Proto Overlay",
-      "@type": "Unit"
+      "@type": "Unit",
       "id": "2",
       "name": "Neeko",
       "description": "Magic Tank 1hex"
@@ -42,7 +41,7 @@
     }
   ],
   "collection": {
-    "@context": "TFT Proto Overlay".
+    "@context": "TFT Proto Overlay",
     "@type": "Collection",
     "name": "TFTProtoOverlayAPI",
     "creator": "MatthewPage",
